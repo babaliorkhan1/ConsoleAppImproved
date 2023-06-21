@@ -1,0 +1,12 @@
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Core\bin\Debug\net6.0\ConsoleApi.Core.deps.json
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Core\bin\Debug\net6.0\ConsoleApi.Core.dll
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Core\bin\Debug\net6.0\ConsoleApi.Core.pdb
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Core\obj\Debug\net6.0\ConsoleApi.Core.csproj.AssemblyReference.cache
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Core\obj\Debug\net6.0\ConsoleApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Core\obj\Debug\net6.0\ConsoleApi.Core.AssemblyInfoInputs.cache
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Core\obj\Debug\net6.0\ConsoleApi.Core.AssemblyInfo.cs
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Core\obj\Debug\net6.0\ConsoleApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Core\obj\Debug\net6.0\ConsoleApi.Core.dll
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Core\obj\Debug\net6.0\refint\ConsoleApi.Core.dll
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Core\obj\Debug\net6.0\ConsoleApi.Core.pdb
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Core\obj\Debug\net6.0\ref\ConsoleApi.Core.dll

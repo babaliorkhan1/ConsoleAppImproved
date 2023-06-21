@@ -1,0 +1,136 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ConsoleApi.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ConsoleApi.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleApi.Core.dll": {}
+        }
+      },
+      "ConsoleApi.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ConsoleApi.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConsoleApi.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleApi.Data.dll": {}
+        }
+      },
+      "ConsoleApi.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ConsoleApi.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConsoleApi.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleApi.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApi.Core/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleApi.Core/ConsoleApi.Core.csproj",
+      "msbuildProject": "../ConsoleApi.Core/ConsoleApi.Core.csproj"
+    },
+    "ConsoleApi.Data/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleApi.Data/ConsoleApi.Data.csproj",
+      "msbuildProject": "../ConsoleApi.Data/ConsoleApi.Data.csproj"
+    },
+    "ConsoleApi.Service/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleApi.Service/ConsoleApi.Service.csproj",
+      "msbuildProject": "../ConsoleApi.Service/ConsoleApi.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ConsoleApi.Core >= 1.0.0",
+      "ConsoleApi.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MERDAN\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MERDAN\\Music\\ConsoleApi\\ConsoleApi\\ConsoleApi.csproj",
+      "projectName": "ConsoleApi",
+      "projectPath": "C:\\Users\\MERDAN\\Music\\ConsoleApi\\ConsoleApi\\ConsoleApi.csproj",
+      "packagesPath": "C:\\Users\\MERDAN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MERDAN\\Music\\ConsoleApi\\ConsoleApi\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\MERDAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\MERDAN\\Music\\ConsoleApi\\ConsoleApi.Core\\ConsoleApi.Core.csproj": {
+              "projectPath": "C:\\Users\\MERDAN\\Music\\ConsoleApi\\ConsoleApi.Core\\ConsoleApi.Core.csproj"
+            },
+            "C:\\Users\\MERDAN\\Music\\ConsoleApi\\ConsoleApi.Service\\ConsoleApi.Service.csproj": {
+              "projectPath": "C:\\Users\\MERDAN\\Music\\ConsoleApi\\ConsoleApi.Service\\ConsoleApi.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\bin\Debug\net6.0\ConsoleApi.Data.deps.json
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\bin\Debug\net6.0\ConsoleApi.Data.dll
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\bin\Debug\net6.0\ConsoleApi.Data.pdb
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\bin\Debug\net6.0\ConsoleApi.Core.dll
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\bin\Debug\net6.0\ConsoleApi.Core.pdb
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\obj\Debug\net6.0\ConsoleApi.Data.csproj.AssemblyReference.cache
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\obj\Debug\net6.0\ConsoleApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\obj\Debug\net6.0\ConsoleApi.Data.AssemblyInfoInputs.cache
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\obj\Debug\net6.0\ConsoleApi.Data.AssemblyInfo.cs
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\obj\Debug\net6.0\ConsoleApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\obj\Debug\net6.0\ConsoleApi.Data.csproj.CopyComplete
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\obj\Debug\net6.0\ConsoleApi.Data.dll
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\obj\Debug\net6.0\refint\ConsoleApi.Data.dll
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\obj\Debug\net6.0\ConsoleApi.Data.pdb
+C:\Users\MERDAN\Music\ConsoleApi\ConsoleApi.Data\obj\Debug\net6.0\ref\ConsoleApi.Data.dll
